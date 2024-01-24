@@ -7,9 +7,7 @@
 [![Support Group!](https://img.shields.io/badge/Join%20Group-↗-green)](https://t.me/collect_em_support)
 
 
-_**Available On Telegram As 
-[Collect Em all](https://t.me/Collect_em_AllBot) and**_
-_Ask for Help in our [Support Chat](https://t.me/Collect_em_support)_
+_
 
 ## About The Repository
 ● This is an Open Source Implementation of Character Catcher Bot for Telegram
@@ -63,12 +61,8 @@ use Rarity Number accordingly rarity Map
 - `/list` - Sends a document with list of all users that used the bot
 - `/groups` - Sends a document with list of all groups that the bot has been in
 
-## DEPLOYMENT METHODS
 
-### Heroku
-- Fork The Repository
-- Go to [`config.py`](./shivu/config.py)
-- Fill the All variables and Go to heroku. and deploy Your forked Repository
+
 
 ### Local Deploy/VPS
 - Fill variables in [`config.py`](./shivu/config.py) 
@@ -93,6 +87,4 @@ The Source is licensed under MIT, and hence comes with no Warranty whatsoever.
 ## Appreciation
 If you appreciate this Code, make sure to star ✨ the repository.
 
-## Developer Suggestions 
-- Don't Use heroku. Deploy on Heroku is just for testing. Otherwise Bot's Inline will Work Too Slow.
-- Use a reliable VPS provider
+
